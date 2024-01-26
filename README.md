@@ -2,20 +2,21 @@
 Teaching Linux, Docker and AWS concepts
 
 ## Learing Goals
-1. Bash Shell Command Line
-2. The vi editor
-3. Bash Environment
-4. Bash Programming
-5. Command line git
-6. Command line make
-7. Promotions with git - Branching Strategies
-8. Bash Regular Expressions
-9. Basic Linux Kernel
-10. Basic Linux Mandatory Access Model - Future goal: Descretionary Access Model
-11. Docker - Basic pull, run, build, tag, and push
-12. Basic AWS CLI - Bash
-13. AWS ECR
-14. AWS ECS
+1. Use AWS Cloud9
+2. Bash Shell Command Line
+3. The vi editor
+4. Bash Environment
+5. Bash Programming
+6. Command line git
+7. Command line make
+8. Promotions with git - Branching Strategies
+9. Bash Regular Expressions
+10. Basic Linux Kernel
+11. Basic Linux Mandatory Access Model - Future goal: Descretionary Access Model
+12. Docker - Basic pull, run, build, tag, and push
+13. Basic AWS CLI - Bash
+14. AWS ECR
+15. AWS ECS
 
 ## Resources
 ### Learning the bash Shell, 3rd Edition

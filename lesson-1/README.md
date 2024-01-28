@@ -21,16 +21,27 @@ Read first 3 chapters.  You need to know core basic vi commands:
 vi [First Name-Last-Name]-lesson-1.txt
 ```
 Press 'i' to go into insert mode.
+
 Type your name and today's date.
+
 Press enter key
+
 Press 'o'
+
 Type Lesson 1
+
 Type a brief sentence describing your coffee.
+
 Press enter
+
 Type what you had for breakfast.
+
 Use the h, j, k, and l keys to move through the file.
+
 Yank the first breakfast line.
+
 Place it after the name line.
+
 Save file.
 
 ## Bash

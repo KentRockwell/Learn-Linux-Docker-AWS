@@ -56,6 +56,8 @@ Learn what the options are for each command and try them out.
 
 Use the files you just created for these commands.
 
+```bash
+
 ls	Lists a directory’s content
 pwd	Shows the current working directory’s path
 cd	Changes the working directory
@@ -81,19 +83,18 @@ useradd and userdel	Creates and removes a user account
 df	Displays the system’s overall disk space usage
 du	Checks a file or directory’s storage consumption
 top	Displays running processes and the system’s resource usage
-htop	Works like top but with an interactive user interface
 ps	Creates a snapshot of all running processes
 uname	Prints information about your machine’s kernel, name, and hardware
 hostname	Shows your system’s hostname
 time	Calculates commands’ execution time
-kill	Terminates a running process
-ping	Checks the system’s network connectivity
 wget	Downloads files from a URL
 curl	Transmits data between servers using URLs
 history	Lists previously run commands
 man	Shows a command’s manual
 echo	Prints a message as a standard output
 cal	Displays a calendar in Terminal
+
+```
 
 ## Bash Enviornment
 When you log into Cloud9, you are logged in as ec2-user, but you are not in your root home directory.
